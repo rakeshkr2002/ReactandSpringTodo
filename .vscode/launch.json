@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ReactandSpringTodo",
+      "request": "launch",
+      "mainClass": "com.rocks.ReactandSpringTodo.ReactandSpringTodo",
+      "projectName": "connectsfrontendtobackend"
+    },
+    {
+      "type": "java",
+      "name": "ReactandSpringTodo",
+      "request": "launch",
+      "mainClass": "com.rocks.connectsfrontendtobackend.ReactandSpringTodo",
+      "projectName": "connectsfrontendtobackend"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-ConnectsfrontendtobackendApplication<connectsfrontendtobackend>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.rocks.connectsfrontendtobackend.ConnectsfrontendtobackendApplication",
+      "projectName": "connectsfrontendtobackend",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
